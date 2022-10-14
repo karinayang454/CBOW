@@ -1,0 +1,27 @@
+...Total performance across all 1309 analogies: 0.0267 (Exact); 0.0547 (MRR); 18 (MR)
+...Analogy performance across 969 "sem" relation types: 0.0093 (Exact); 0.0223 (MRR); 45 (MR)
+        relation        N       exact   MRR     MR
+        capitals        1       0.0000  0.5000  2
+        binary_gender   12      0.3333  0.3682  3
+        antonym 54      0.0370  0.0480  21
+        member  4       0.0000  0.0068  148
+        hypernomy       542     0.0037  0.0151  66
+        similar 117     0.0085  0.0262  38
+        partof  29      0.0000  0.0257  39
+        instanceof      9       0.0000  0.0080  126
+        derivedfrom     133     0.0000  0.0101  99
+        hascontext      32      0.0000  0.0028  354
+        relatedto       10      0.0000  0.0014  719
+        attributeof     11      0.0000  0.0078  128
+        causes  6       0.0000  0.0177  56
+        entails 9       0.0000  0.0384  26
+...Analogy performance across 340 "syn" relation types: 0.0765 (Exact); 0.1473 (MRR); 7 (MR)
+        relation        N       exact   MRR     MR
+        adj_adv 22      0.0455  0.0526  19
+        comparative     7       0.0000  0.2326  4
+        superlative     3       0.3333  0.5185  2
+        present_participle      62      0.1129  0.1872  5
+        denonym 2       0.0000  0.0067  149
+        past_tense      64      0.0469  0.1327  8
+        plural_nouns    107     0.1028  0.1702  6
+        plural_verbs    73      0.0411  0.1017  10
